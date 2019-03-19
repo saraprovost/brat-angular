@@ -25,7 +25,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "libs/brat-frontend2/brat-frontend-editor.js"
+            ]
           },
           "configurations": {
             "production": {
